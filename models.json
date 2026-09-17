@@ -1,0 +1,44 @@
+{
+  "brand": "Xiaomi, Redmi & POCO HyperOS & MIUI Database",
+  "categories": [
+    {
+      "series_name": "Redmi Note Series",
+      "models": [
+        "Redmi Note 13 4G", "Redmi Note 13 5G", "Redmi Note 13 Pro", "Redmi Note 13 Pro+ 5G",
+        "Redmi Note 12 4G", "Redmi Note 12 5G", "Redmi Note 12 Pro", "Redmi Note 12 Pro+", "Redmi Note 12 Turbo",
+        "Redmi Note 14", "Redmi Note 14 Pro", "Redmi Note 14 Pro+ 5G"
+      ]
+    },
+    {
+      "series_name": "Xiaomi Flagship Series",
+      "models": [
+        "Xiaomi 13", "Xiaomi 13 Pro", "Xiaomi 13 Ultra", "Xiaomi 13T", "Xiaomi 13T Pro",
+        "Xiaomi 14", "Xiaomi 14 Pro", "Xiaomi 14 Ultra", "Xiaomi 14T", "Xiaomi 14T Pro",
+        "Xiaomi 15 Series and Above"
+      ]
+    },
+    {
+      "series_name": "Redmi K Series",
+      "models": [
+        "Redmi K70", "Redmi K70 Pro", "Redmi K70 Ultra", "Redmi K70E",
+        "Redmi K60", "Redmi K60 Pro", "Redmi K60 Ultra", "Redmi K60E",
+        "Redmi K80 Series and Above"
+      ]
+    },
+    {
+      "series_name": "POCO Series",
+      "models": [
+        "POCO F5", "POCO F5 Pro", "POCO F6", "POCO F6 Pro", "POCO F7 Series",
+        "POCO X6", "POCO X6 Pro", "POCO X7", "POCO X7 Pro",
+        "POCO M6 Pro", "POCO M6 5G"
+      ]
+    },
+    {
+      "series_name": "Xiaomi Civi Series",
+      "models": [
+        "Xiaomi Civi (Original)", "Xiaomi Civi 1S", "Xiaomi Civi 2",
+        "Xiaomi Civi 3", "Xiaomi Civi 4 Pro", "Xiaomi Civi 5 Series and Above"
+      ]
+    }
+  ]
+}
