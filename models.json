@@ -1,0 +1,27 @@
+{
+  "brand": "AFT Mobile - Sideload FRP Database",
+  "categories": [
+    {
+      "series_name": "Redmi Note Series",
+      "models": [
+        {
+          "model_name": "Redmi Note 13 5G",
+          "frp_file_url": "https://raw.githubusercontent.com/pyinoolwin2026aft-cmyk/aft-config/main/files/note13_5g_frp.zip"
+        },
+        {
+          "model_name": "Redmi Note 13 Pro+ 5G",
+          "frp_file_url": "https://raw.githubusercontent.com/pyinoolwin2026aft-cmyk/aft-config/main/files/note13pro_plus_frp.zip"
+        }
+      ]
+    },
+    {
+      "series_name": "Xiaomi Civi Series",
+      "models": [
+        {
+          "model_name": "Xiaomi Civi 4 Pro",
+          "frp_file_url": "https://raw.githubusercontent.com/pyinoolwin2026aft-cmyk/aft-config/main/files/civi4_pro_frp.zip"
+        }
+      ]
+    }
+  ]
+}
